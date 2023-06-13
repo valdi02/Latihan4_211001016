@@ -10,7 +10,7 @@ package penilaian;
  * @author valdi
  */
 public class Mahasiswa {
-        private String nama;
+    private String nama;
     private String prodi;
     private String nim;
     
